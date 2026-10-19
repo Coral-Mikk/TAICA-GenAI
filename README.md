@@ -1,0 +1,2 @@
+# TAICA-GenAI
+TAICA GenAI 作業
